@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-#### I'm a Computational Craftsman, Sculpting Computation Ready Models.
-#### Software Developer and CS Undergrad (2018-2021).
+### Sculpting Computation Ready Models.
 
 <!--
 **archanpatkar/archanpatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
