@@ -1,6 +1,12 @@
-### Hi there 👋
-### Sculpting Computation Ready Models.
+<img src="./banner.png" />
 
+
+<!--
+### Hi there 👋
+-->
+<!--
+### Sculpting Computation Ready Models.
+-->
 <!--
 **archanpatkar/archanpatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
