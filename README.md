@@ -1,4 +1,4 @@
-<img src="banner.svg" height="100%" width="70%" />
+<img src="./banner.svg" height="100%" width="70%" />
 
 
 <!--
