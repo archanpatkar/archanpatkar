@@ -2,5 +2,5 @@
 
 
 <div align="center">
-  <p> Background images from <a href="https://github.com/archanpatkar/VisualArt" > here </a></p>
+  <a href="https://github.com/archanpatkar/VisualArt" > Background art</a>
 </div>
